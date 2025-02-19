@@ -1,4 +1,4 @@
-# FrestyHost - Moschified Bootcamp
+# FrestyHost - Moshified Bootcamp
 #### Fictitious front-end website with more than 25 components and 5 well-designed animations that adapt to the screen size
 -----------------------------------------------------------------
 ## Main Technologies:
